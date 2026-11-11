@@ -249,7 +249,7 @@ tr:hover {
     padding-top: 20px;
     font-size: 32px;
     color: var(--kk);
-    line-height: 90%;
+    /* line-height: 90%; */
     /*padding-bottom: 50px;*/
 }
 #spaced1 {
